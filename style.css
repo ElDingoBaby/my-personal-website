@@ -1,3 +1,11 @@
 body {
-    background: rgb(191, 229, 253);
+    background: rgba(80, 179, 110, 0.397);
+}
+
+h1 {
+    text-align-last: center;
+}
+
+h3 {
+    background-color: #f1dabbf3;
 }
